@@ -43,3 +43,4 @@ Due to the pandemic, I had the time to learn Gatsby, further my React.js knowled
    ```sh
    npm run serve
    ```
+# portfolio_v2
