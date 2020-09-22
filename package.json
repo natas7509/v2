@@ -3,10 +3,10 @@
   "description": "Portfolio",
   "version": "1.0.0",
   "author": "Jon Darling <jondarlingdev@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/natas7509/portfolio_v2.git"
-  },
+  // "repository": {
+  //   "type": "git",
+  //   "url": "https://github.com/natas7509/portfolio_v2.git"
+  // },
   "keywords": [
     "gatsby"
   ],
