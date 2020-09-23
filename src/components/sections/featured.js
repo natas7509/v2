@@ -252,7 +252,7 @@ const Featured = () => {
               title
               cover {
                 childImageSharp {
-                  fluid(maxWidth: 700, traceSVG: { color: "#64ffda" }) {
+                  fluid(maxWidth: 700, traceSVG: { color: "#00ffff" }) {
                     ...GatsbyImageSharpFluid_withWebp_tracedSVG
                   }
                 }

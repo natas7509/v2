@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: 'Travel Site'
 cover: './queenstown.png'
 github: 'https://github.com/natas7509/websites/tree/master/NZ-site'

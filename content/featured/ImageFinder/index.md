@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Image Finder'
 cover: './images.png'
 github: 'https://github.com/natas7509/react-img-gallery'

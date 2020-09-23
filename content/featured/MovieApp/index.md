@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Movie Booking App'
 cover: './movie.png'
 github: 'https://github.com/natas7509/movieApp'

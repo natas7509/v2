@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'GitHub Profile Filter'
 cover: './github.png'
 github: 'https://github.com/natas7509/githubUserFilter'
