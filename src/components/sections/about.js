@@ -124,12 +124,12 @@ const About = () => {
         </StyledPic>
         <StyledText>
           <div>
-            <p>I am a Frontend Developer based in New York, NY.</p>
+            <p>I am a Frontend Developer / Graphic Designer based in New York.</p>
 
             <p>
               I recently graduated with a degree in Multimedia Programming with a specialization in
               Frontend Web Development and Graphic Design. I enjoy working across various programs
-              and platforms creating in Sketch or XD and finishing with Javascript / React / Node /
+              and platforms creating in Sketch or XD, and finishing with Javascript / React / Node /
               Firebase to name a few.
             </p>
             <p>
