@@ -139,7 +139,7 @@ const About = () => {
             </p>
 
             <p>
-              I also find WordPress Development to be engaging as well, especially theme
+              I also find WordPress development to be engaging as well, especially theme
               customization and incorporating raw coding techniques to create a unique end product.
               Having the opportunity to work on the WordPress VIP platform during my internship was
               invaluable, as it gave me an inside look on how the platform operates at an enterprise
