@@ -1,9 +1,9 @@
 ---
 date: '5'
 title: 'Movie Booking App'
-cover: './movie.png'
-github: 'https://github.com/natas7509/movieApp'
-external: 'https://natas7509.github.io/movieApp/'
+cover: './kraft-img-test.jpg'
+github: 'https://natas7509.github.io/websites/brixton-meadows'
+external: 'https://natas7509.github.io/budget-app'
 tech:
   - HTML
   - CSS
