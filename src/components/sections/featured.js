@@ -334,6 +334,7 @@ const Featured = () => {
                     <Img fluid={cover.childImageSharp.fluid} alt={title} className="img" />
                   </a>
                 </div>
+               
               </StyledProject>
             );
           })}
